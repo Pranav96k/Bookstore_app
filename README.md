@@ -10,7 +10,6 @@ A web application for searching and displaying book details.
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Code Structure](#code-structure)
 - [Tailwind CSS Styling](#tailwind-css-styling)
 - [Displaying Book Details](#displaying-book-details)
 - [Button-Like Styling for "Paid" or "Free"](#button-like-styling-for-paid-or-free)
@@ -47,13 +46,6 @@ Use the search bar to search for books by title or author.
 Click on a book to view its details.
 
 See whether the book is "Paid" or "Free" with button-like styling.
-
-## Code Structure
-pages/api/books/[bookId].js: API route to fetch book details by ID.
-components/SearchResult.js: Component to display book details and styling.
-pages/index.js: Home page with search functionality.
-styles/globals.css: Global CSS styling.
-tailwind.config.js: Tailwind CSS configuration file
 
 ## Tailwind CSS Styling
 We use Tailwind CSS for styling our web application. 
