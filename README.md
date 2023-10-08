@@ -32,7 +32,7 @@ This web application allows users to search for books and view their details. It
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/book-search-app.git
+   git clone https://github.com/Pranav96k/Bookstore_app.git
 Install the required dependencies for both the frontend (Next.js) and the backend (Flask).
 
 Set up the Flask API to serve book data.
