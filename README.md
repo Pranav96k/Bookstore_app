@@ -56,7 +56,7 @@ styles/globals.css: Global CSS styling.
 tailwind.config.js: Tailwind CSS configuration file
 
 ## Tailwind CSS Styling
-We use Tailwind CSS for styling our web application. Here's how to center elements and create small button-like styling:
+We use Tailwind CSS for styling our web application. 
 
 ## Displaying Book Details
 We display book details including title, author, genre, and publication date. For displaying whether a book is "Paid" or "Free," we use the isPaid variable.
