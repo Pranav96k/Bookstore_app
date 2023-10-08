@@ -16,7 +16,6 @@ A web application for searching and displaying book details.
 - [Button-Like Styling for "Paid" or "Free"](#button-like-styling-for-paid-or-free)
 - [Contributing](#contributing)
 - [INTERFACE](#interface)
-- [License](#license)
 
 ## Introduction
 
@@ -76,5 +75,3 @@ OPENING PAGE:
 Result when you search specific book:
 <img width="948" alt="third" src="https://github.com/Pranav96k/Bookstore_app/assets/90552740/7e83f1ab-cc1f-4a07-ad7d-674ccc6b624c">
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
